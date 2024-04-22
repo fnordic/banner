@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"moul.io/banner"
+	"github.com/fnordic/banner"
 )
 
 func ExampleInline() {
